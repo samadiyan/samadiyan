@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a align="center" href="https://github.com/samadiyan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadiyan&layout=compact" />
+</a>
 <!--
 **samadiyan/samadiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
